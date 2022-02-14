@@ -1,0 +1,9 @@
+
+The unit tests are checked by the command -
+
+% python -m unittest discover
+
+The unit test coverage is found by the command -
+
+% coverage run -m unittest discover
+
